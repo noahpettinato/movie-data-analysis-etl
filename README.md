@@ -1,5 +1,5 @@
 ## Exploratory Data Analysis
-**File:** `Task 1/notebooks/patientiq_task1_analysis.ipynb`  
+**File:** `movie_data_analysis_etl.ipynb`  
 Exploratory analysis of The Movies Dataset (Kaggle), including trends in audience engagement, genre popularity, ratings, blockbusters, and ROI.  
 Findings and recommendations are presented in slide format within the notebook.  
 
