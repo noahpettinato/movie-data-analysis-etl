@@ -1,5 +1,8 @@
+# Core data analysis dependencies
 pandas
 numpy
 matplotlib
 seaborn
+
+# Development environment
 jupyter
